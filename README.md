@@ -150,7 +150,7 @@ są twoszone sztuczne z dobrego plastyku czasem z metalu są ciężkie i dobre w
 
 
 Sam schemat:
-   
+https://pp.userapi.com/c851420/v851420223/a135f/7i_2P8dpkdo.jpg   
 Opis shematu:
 W schemacie wykorzystujemi ze tszy przyciski 
 - do strzelania 
