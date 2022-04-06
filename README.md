@@ -1,4 +1,4 @@
-# Arduino-Project-Pistol-Laser-Tag
+# Laser-Tag-Gun-Arduino-Project
 
 # Project Title:
 * Laser Tag gun
